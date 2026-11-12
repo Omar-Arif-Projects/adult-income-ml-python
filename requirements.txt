@@ -1,0 +1,10 @@
+# Versions used for the results stored in income_analysis.ipynb (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+fairlearn==0.15.0
+
+# To run the notebook
+notebook
+ipykernel
